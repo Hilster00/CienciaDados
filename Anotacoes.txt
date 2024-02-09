@@ -1,0 +1,11 @@
+Anotações
+#from sklearn.model_selection import train_test_split
+#a, _, b, _ = train_test_split(dados.iloc[l_b,c_a], dados.iloc[l_b,c_b], test_size=tam, stratify = dados.iloc[l_c,c_c])
+#l_a são as linhas da tabela que vão para a, c_a são as colunas
+#l_b são as linhas da tabela que vão para b, c_b são as colunas
+#tam é quanto quer dividir, ex em 40%, teria que colocar tam=0.6, o 1(100%) - 0.4(40% desejado)
+#l_c são as linhas que serão baseadas para dividir a colunas que serão usadas de base para dividir no tamanho desejado(com base nos valores da linha
+#se tiver 10 valores 1 e 20 valores 2 e dividir em 40%, ele irá separar 4 valores 1 e 8 valores 2.), c_c são as colunas
+
+
+#
